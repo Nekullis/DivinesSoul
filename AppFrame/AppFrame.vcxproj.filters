@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Application">
+      <UniqueIdentifier>{3ad67d59-1c05-4035-a793-e116edecd45a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Application">
+      <UniqueIdentifier>{a3fff198-cee7-4881-a020-53d34911c840}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\ModeServer">
+      <UniqueIdentifier>{333223cf-50df-4e65-af65-b7427c4e45d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\ModeServer">
+      <UniqueIdentifier>{77506642-e406-40ce-9b68-020448c607ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\MainStream">
+      <UniqueIdentifier>{f0f337f7-00b3-4af7-954d-8ee67b0e4cec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\System">
+      <UniqueIdentifier>{cf8df7b0-3572-4b78-a911-65b9a8519fad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\MainStream">
+      <UniqueIdentifier>{8540a13f-fedf-4e2d-9097-ed1898c97254}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\System">
+      <UniqueIdentifier>{f3345609-f326-442e-b2b1-4914f6e60d76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\ResourceServer">
+      <UniqueIdentifier>{cc3c631f-57bf-43f8-bb25-c1cf53359a6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\ResourceServer">
+      <UniqueIdentifier>{a0a66696-ed4d-4d47-ad06-a7cc6fb4c3e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Reference">
+      <UniqueIdentifier>{91917bc1-f39b-46dc-8f23-1239269e61dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Reference">
+      <UniqueIdentifier>{c58186ab-0f6d-4a2c-bfbe-053c3dc8a29d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\CFile">
+      <UniqueIdentifier>{0cb22d1d-32a8-4214-87ec-3c0134f0a2ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\CFile">
+      <UniqueIdentifier>{acc5e220-8743-437a-a3af-7675eedb1aba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Object">
+      <UniqueIdentifier>{7c9cb9b6-127b-450d-b330-f645051a8719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Object">
+      <UniqueIdentifier>{f42fb8f5-1b92-48af-9eea-821cb6e5726f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\System\Sound">
+      <UniqueIdentifier>{ad90e294-41f0-490a-9421-876cbe535472}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\System\Sound">
+      <UniqueIdentifier>{e90d72b4-2a90-497d-9a0f-c9587348d763}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Application\ApplicationBase.cpp">
+      <Filter>ソース ファイル\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeServer\ModeBase.cpp">
+      <Filter>ソース ファイル\ModeServer</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeServer\ModeServer.cpp">
+      <Filter>ソース ファイル\ModeServer</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\WinMain.cpp">
+      <Filter>ソース ファイル\MainStream</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceServer\ResourceServer.cpp">
+      <Filter>ソース ファイル\ResourceServer</Filter>
+    </ClCompile>
+    <ClCompile Include="Reference\MyMath.cpp">
+      <Filter>ソース ファイル\Reference</Filter>
+    </ClCompile>
+    <ClCompile Include="Reference\MyDraw.cpp">
+      <Filter>ソース ファイル\Reference</Filter>
+    </ClCompile>
+    <ClCompile Include="CFile\CFile.cpp">
+      <Filter>ソース ファイル\CFile</Filter>
+    </ClCompile>
+    <ClCompile Include="System\GamePad.cpp">
+      <Filter>ソース ファイル\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\ObjectBase.cpp">
+      <Filter>ソース ファイル\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeServer\ModeSoundLayer.cpp">
+      <Filter>ソース ファイル\ModeServer</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\SoundServer.cpp">
+      <Filter>ソース ファイル\System\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\SoundItem.cpp">
+      <Filter>ソース ファイル\System\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Reference\MyCollision.cpp">
+      <Filter>ソース ファイル\Reference</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application\ApplicationBase.h">
+      <Filter>ヘッダー ファイル\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeServer\ModeBase.h">
+      <Filter>ヘッダー ファイル\ModeServer</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeServer\ModeServer.h">
+      <Filter>ヘッダー ファイル\ModeServer</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceServer\ResourceServer.h">
+      <Filter>ヘッダー ファイル\ResourceServer</Filter>
+    </ClInclude>
+    <ClInclude Include="Reference\MyMath.h">
+      <Filter>ヘッダー ファイル\Reference</Filter>
+    </ClInclude>
+    <ClInclude Include="Reference\MyStruct.h">
+      <Filter>ヘッダー ファイル\Reference</Filter>
+    </ClInclude>
+    <ClInclude Include="Reference\MyDraw.h">
+      <Filter>ヘッダー ファイル\Reference</Filter>
+    </ClInclude>
+    <ClInclude Include="Reference\ColorFormat.h">
+      <Filter>ヘッダー ファイル\Reference</Filter>
+    </ClInclude>
+    <ClInclude Include="CFile\CFile.h">
+      <Filter>ヘッダー ファイル\CFile</Filter>
+    </ClInclude>
+    <ClInclude Include="UtilMacro.h">
+      <Filter>ヘッダー ファイル\MainStream</Filter>
+    </ClInclude>
+    <ClInclude Include="appframe.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="System\GamePad.h">
+      <Filter>ヘッダー ファイル\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\ObjectBase.h">
+      <Filter>ヘッダー ファイル\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeServer\ModeSoundLayer.h">
+      <Filter>ヘッダー ファイル\ModeServer</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\SoundServer.h">
+      <Filter>ヘッダー ファイル\System\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\SoundItem.h">
+      <Filter>ヘッダー ファイル\System\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Reference\MyCollision.h">
+      <Filter>ヘッダー ファイル\Reference</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
