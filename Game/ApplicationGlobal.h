@@ -1,3 +1,10 @@
+//----------------------------------------------------------------------
+// @filename ApplicationGlobal.h
+// @author: Fukuma Kyohei, Nara Mitsuki 
+// @explanation
+// アプリケーション共通のクラス
+// モードを超えて保持したい情報などを記録するためのクラス
+//----------------------------------------------------------------------
 #pragma once
 #include "appframe.h"
 #include "PlayerManager.h"

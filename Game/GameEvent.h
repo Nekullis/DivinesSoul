@@ -1,3 +1,10 @@
+//----------------------------------------------------------------------
+// @filename GameEvent.h
+// @author: Fukuma Kyohei
+// @explanation
+// ゲーム内イベントクラス
+// ゲーム内イベントの発生させるクラス
+//----------------------------------------------------------------------
 #pragma once
 #include "EnemyManager.h"
 #include "JsonUtility.h"

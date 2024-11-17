@@ -42,16 +42,13 @@
     <ClInclude Include="ModeGame.h" />
     <ClInclude Include="ModeGameClear.h" />
     <ClInclude Include="ModeGameover.h" />
-    <ClInclude Include="ModelItem.h" />
     <ClInclude Include="ModeLoad.h" />
     <ClInclude Include="ModeLogo.h" />
-    <ClInclude Include="ModelServer.h" />
     <ClInclude Include="ModeSound.h" />
     <ClInclude Include="ModeTitle.h" />
     <ClInclude Include="ObjectManager.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="PlayerManager.h" />
-    <ClInclude Include="ModeTrialStage.h" />
     <ClInclude Include="PlayerParameter.h" />
     <ClInclude Include="ResourceServer.h" />
     <ClInclude Include="SkillSlot.h" />

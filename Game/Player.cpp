@@ -1,4 +1,3 @@
-//#include "appframe.h"
 #include "Player.h"
 #include "ApplicationGlobal.h"
 

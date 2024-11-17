@@ -11,7 +11,7 @@ PlayerManager::~PlayerManager() {
 }
 
 void PlayerManager::Initialize() {
-	// プレイヤーマネージャー自体の初期化関数（グローバルでできているので一応作りました）
+// プレイヤーマネージャー自体の初期化関数（グローバルでできているので一応作りました）
 }
 
 void PlayerManager::Process() {

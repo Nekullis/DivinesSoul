@@ -1,3 +1,10 @@
+//----------------------------------------------------------------------
+// @filename EN_Romanoff.h
+// @author: Fukuma Kyohei
+// @explanation
+// 敵派生クラス
+// ボス敵の処理クラス
+//----------------------------------------------------------------------
 #pragma once
 #include "Enemy.h"
 class EN_Romanoff :public Enemy

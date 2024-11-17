@@ -1,3 +1,10 @@
+//----------------------------------------------------------------------
+// @filename GameUI.h
+// @author: Fukuma Kyohei
+// @explanation
+// ゲーム内UIクラス
+// スキルアイコンやHPなどのUI描画クラス
+//----------------------------------------------------------------------
 #pragma once
 #include "appframe.h"
 #include "ApplicationGlobal.h"

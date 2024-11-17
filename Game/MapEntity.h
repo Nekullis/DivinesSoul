@@ -1,3 +1,10 @@
+//----------------------------------------------------------------------
+// @filename MapEntity.h
+// @author: Fukuma Kyohei, Nara Mitsuki
+// @explanation
+// マップクラス
+// 背景、ステージに使用するオブジェクトの処理クラス
+//----------------------------------------------------------------------
 #pragma once
 #include "appframe.h"
 #include "ApplicationGlobal.h"

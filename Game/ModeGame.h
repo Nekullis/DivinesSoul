@@ -1,3 +1,9 @@
+//----------------------------------------------------------------------
+// @filename ModeGame.h
+// @author: Fukuma Kyohei, Nara Mitsuki
+// @explanation
+// ステージを管理するクラス
+//----------------------------------------------------------------------
 #pragma once
 #include "actioncollision.h"
 #include "appframe.h"

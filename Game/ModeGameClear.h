@@ -1,3 +1,9 @@
+//----------------------------------------------------------------------
+// @filename ModeGameClear.h
+// @author: Fukuma Kyohei
+// @explanation
+// クリア後の画像を描画するモード
+//----------------------------------------------------------------------
 #pragma once
 class ModeClear : public ModeBase
 {
@@ -9,6 +15,7 @@ public:
 	bool Render();
 
 protected:
+	//画像
 	int _cg;
 };
 

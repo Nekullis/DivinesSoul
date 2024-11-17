@@ -1,3 +1,9 @@
+//----------------------------------------------------------------------
+// @filename ModeTitle.h
+// @author: Fukuma Kyohei
+// @explanation
+// タイトル画像を描画するモード
+//----------------------------------------------------------------------
 class ModeTitle : public ModeBase
 {
 	typedef ModeBase base;
@@ -8,6 +14,7 @@ public:
 	virtual bool Render();
 
 protected:
+	//画像
 	int _cg;
 };
 

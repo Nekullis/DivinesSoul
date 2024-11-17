@@ -1,3 +1,10 @@
+//----------------------------------------------------------------------
+// @filename JsonUtility.h
+// @author: Nara Mitsuki
+// @explanation
+// jsonクラス
+// jsonを扱えるようにするためのクラス
+//----------------------------------------------------------------------
 #pragma once
 #include "nlohmann/json.hpp"
 #include <fstream>

@@ -1,3 +1,9 @@
+//----------------------------------------------------------------------
+// @filename ModeFade.h
+// @author: Fukuma Kyohei
+// @explanation
+// クリア後の映像を描画するクラス
+//----------------------------------------------------------------------
 #pragma once
 #include "appframe.h"
 class ModeFade :public ModeBase

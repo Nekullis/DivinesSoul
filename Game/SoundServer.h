@@ -1,3 +1,10 @@
+//----------------------------------------------------------------------
+// @filename SoundServer.h
+// @author: Nara Mitsuki, Sato Syunto
+// @explanation
+// 音声管理クラス
+// 音声の追加、削除するためのクラス
+//----------------------------------------------------------------------
 #pragma once
 #include "appframe.h"
 #include "SoundItem.h"

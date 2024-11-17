@@ -1,3 +1,10 @@
+//----------------------------------------------------------------------
+// @filename SoundItem.h
+// @author: Nara Mitsuki, Sato Syunto
+// @explanation
+// 音声用アイテムクラス
+// ModeSoundに使うアイテムの処理クラス
+//----------------------------------------------------------------------
 #pragma once
 #include "appframe.h"
 #include <string>

@@ -1,3 +1,9 @@
+//----------------------------------------------------------------------
+// @filename ModeLogo.h
+// @author: Fukuma Kyohei
+// @explanation
+// ƒƒS‰æ‘œ‚ğ•`‰æ‚·‚éƒ‚[ƒh
+//----------------------------------------------------------------------
 #pragma once
 #include "appFrame.h"
 class ModeLogo : public ModeBase

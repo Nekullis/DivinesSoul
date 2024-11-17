@@ -75,9 +75,6 @@
     <ClInclude Include="ApplicationMain.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="ModeTrialStage.h">
-      <Filter>ヘッダー ファイル\Stage</Filter>
-    </ClInclude>
     <ClInclude Include="PlayerManager.h">
       <Filter>ヘッダー ファイル\Object\Manager</Filter>
     </ClInclude>
@@ -113,12 +110,6 @@
     </ClInclude>
     <ClInclude Include="ResourceServer.h">
       <Filter>ヘッダー ファイル\Server</Filter>
-    </ClInclude>
-    <ClInclude Include="ModelServer.h">
-      <Filter>ヘッダー ファイル\Server</Filter>
-    </ClInclude>
-    <ClInclude Include="ModelItem.h">
-      <Filter>ヘッダー ファイル\Object\Item</Filter>
     </ClInclude>
     <ClInclude Include="SkillSlot.h">
       <Filter>ヘッダー ファイル\Other</Filter>
