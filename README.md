@@ -139,6 +139,10 @@ DOVA-SYNDROME
 # プロジェクト構成と起動方法
 下記 DxLib ディレクトリ内に [DX ライブラリ Windows版 VisualStudio(C++)用](https://dxlib.xsrv.jp/DxLib/DxLib_VC3_24d.zip) を DownLoad して解凍後の ***プロジェクトに追加すべきファイル_VC用*** ディレクトリの内容を全てコピーします。
 下記 include ディレクトリ内に[nlohmann](https://github.com/nlohmann/json)をDownLoad して解凍後のnlohmannファイルを全てコピーします。
+
+# ディレクトリ詳細
+<details>
+<summary>ディレクトリ</summary>
 <pre>
 .
 ├── DxLib(ライブラリ用ディレクトリ)
@@ -274,6 +278,7 @@ DOVA-SYNDROME
 └── include(nlohmann-jsonのインクルードファイル)
 
 </pre>
+</details>
 
 # AppFrame フレームワーク概要
 ゲームを作成する上で定形的に必要となる機能をまとめたフレームワーク  
